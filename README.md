@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=KAMALESSH%20E%20R&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Kamal.exe%20%7C%20AI%20%26%20Full%20Stack%20Engineer&descAlignY=52&descSize=18" width="100%"/>
+<img src="./assets/banner.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=B388FF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Experiences+%E2%9C%A6;Full+Stack+Development+%E2%9C%A6;UI%2FUX+Design+%2B+Systems+Thinking+%E2%9C%A6;Automation+%2F+Bots+%2F+Tooling+%E2%9C%A6;Founder+%40+Web+%26+Visuals" alt="Typing SVG" />
