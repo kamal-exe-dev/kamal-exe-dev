@@ -14,9 +14,9 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kamalessh-er&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
-[![Followers](https://img.shields.io/github/followers/kamalessh-er?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&labelColor=0D1117)](https://github.com/kamalessh-er)
-[![Stars](https://img.shields.io/github/stars/kamalessh-er?label=STARS&style=for-the-badge&color=8A2BE2&labelColor=0D1117)](https://github.com/kamalessh-er)
+![Profile Views](https://komarev.com/ghpvc/?username=kamal-exe-dev&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/kamal-exe-dev?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&labelColor=0D1117)](https://github.com/kamal-exe-dev)
+[![Stars](https://img.shields.io/github/stars/kamal-exe-dev?label=STARS&style=for-the-badge&color=8A2BE2&labelColor=0D1117)](https://github.com/kamal-exe-dev)
 
 </div>
 
@@ -171,7 +171,7 @@ Philosophy: "Ship clean, ship fast, ship with intention."
 <td width="50%">
 
 ### 🌐 Web & Visuals
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamalessh-er&repo=web-and-visuals&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2)](https://github.com/kamalessh-er)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamal-exe-dev&repo=web-and-visuals&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2)](https://github.com/kamal-exe-dev)
 
 Full-service digital studio delivering websites, branding & digital products for clients worldwide.
 <br/>
@@ -181,7 +181,7 @@ Full-service digital studio delivering websites, branding & digital products for
 <td width="50%">
 
 ### 🩺 AI Medical Report Analyzer
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamalessh-er&repo=ai-medical-report-analyzer&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2)](https://github.com/kamalessh-er)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamal-exe-dev&repo=ai-medical-report-analyzer&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2)](https://github.com/kamal-exe-dev)
 
 AI system that reads and interprets medical reports, extracting clear insights for patients & doctors.
 <br/>
@@ -193,7 +193,7 @@ AI system that reads and interprets medical reports, extracting clear insights f
 <td width="50%">
 
 ### 📜 Certificate Generator
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamalessh-er&repo=certificate-generator&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2)](https://github.com/kamalessh-er)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamal-exe-dev&repo=certificate-generator&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2)](https://github.com/kamal-exe-dev)
 
 Automated bulk certificate generation with custom templates, dynamic fields & instant export.
 <br/>
@@ -203,7 +203,7 @@ Automated bulk certificate generation with custom templates, dynamic fields & in
 <td width="50%">
 
 ### 🎓 Student Management Dashboard
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamalessh-er&repo=student-management-dashboard&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2)](https://github.com/kamalessh-er)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamal-exe-dev&repo=student-management-dashboard&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2)](https://github.com/kamal-exe-dev)
 
 End-to-end dashboard for student records, attendance, performance analytics & reporting.
 <br/>
@@ -215,7 +215,7 @@ End-to-end dashboard for student records, attendance, performance analytics & re
 <td width="50%">
 
 ### 🤖 Discord Bot Dashboard
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamalessh-er&repo=discord-bot-dashboard&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2)](https://github.com/kamalessh-er)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamal-exe-dev&repo=discord-bot-dashboard&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2)](https://github.com/kamal-exe-dev)
 
 Feature-rich Discord bot with a web dashboard for moderation, automation & server analytics.
 <br/>
@@ -225,7 +225,7 @@ Feature-rich Discord bot with a web dashboard for moderation, automation & serve
 <td width="50%">
 
 ### 🎮 FiveM Projects
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamalessh-er&repo=fivem-projects&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2)](https://github.com/kamalessh-er)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamal-exe-dev&repo=fivem-projects&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2)](https://github.com/kamal-exe-dev)
 
 Custom FiveM scripts, resources & server-side systems for immersive roleplay experiences.
 <br/>
@@ -248,13 +248,13 @@ Custom FiveM scripts, resources & server-side systems for immersive roleplay exp
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kamalessh-er&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=B388FF&text_color=c9d1d9&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalessh-er&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=B388FF&currStreakLabel=B388FF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kamal-exe-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=B388FF&text_color=c9d1d9&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamal-exe-dev&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=B388FF&currStreakLabel=B388FF" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalessh-er&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9&langs_count=10" width="42%"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kamalessh-er&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9&layout=compact" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamal-exe-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9&langs_count=10" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kamal-exe-dev&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9&layout=compact" width="42%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalessh-er&theme=react-dark&hide_border=true&bg_color=0D1117&color=B388FF&line=8A2BE2&point=ffffff&area=true" width="92%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamal-exe-dev&theme=react-dark&hide_border=true&bg_color=0D1117&color=B388FF&line=8A2BE2&point=ffffff&area=true" width="92%"/>
 
 </div>
 
@@ -267,7 +267,7 @@ Custom FiveM scripts, resources & server-side systems for immersive roleplay exp
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kamalessh-er/kamalessh-er/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/kamal-exe-dev/kamal-exe-dev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -277,7 +277,7 @@ Custom FiveM scripts, resources & server-side systems for immersive roleplay exp
 
 This animated snake eats your contribution graph. To generate it for your own profile:
 
-1. Create a repo named exactly like your username: `kamalessh-er/kamalessh-er`
+1. Create a repo named exactly like your username: `kamal-exe-dev/kamal-exe-dev`
 2. Add a GitHub Action using [`Platane/snk`](https://github.com/Platane/snk) to your workflow
 3. It will auto-generate `github-contribution-grid-snake-dark.svg` on an `output` branch
 4. The image URL above will then render automatically — no further changes needed
@@ -292,7 +292,7 @@ This animated snake eats your contribution graph. To generate it for your own pr
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kamalessh-er&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kamal-exe-dev&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="100%"/>
 </div>
 
 <br/>
@@ -329,7 +329,7 @@ This animated snake eats your contribution graph. To generate it for your own pr
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kamalessh-er&show_icons=true&hide=stars,commits&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=B388FF&text_color=c9d1d9&custom_title=Community+Impact" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kamal-exe-dev&show_icons=true&hide=stars,commits&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=B388FF&text_color=c9d1d9&custom_title=Community+Impact" width="60%"/>
 
 </details>
 
