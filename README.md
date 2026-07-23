@@ -1,11 +1,9 @@
 <div align="center">
 
-<video width="100%" autoplay muted loop playsinline>
-  <source src="https://cdn.discordapp.com/attachments/1528315449555685456/1529751978782101575/Firefly_--8-Second_Cinematic_Intro_Prompt--__-_Create_an_--8-second_ultra-premium_cinematic_motion_t_1.mp4" type="video/mp4">
-</video>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=KAMALESSH%20E%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Kamal.exe&descAlignY=55&descSize=22" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=B388FF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Experiences+%E2%9C%A6;Full+Stack+Development+%E2%9C%A6;UI%2FUX+Design+%2B+Systems+Thinking+%E2%9C%A6;Automation+%2F+Bots+%2F+Tooling+%E2%9C%A6;Founder+%40+Web+%26+Visuals" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Crafting+Exceptional+User+Experiences;Designing+Modern+Digital+Products;Building+Scalable+Design+Systems;Creating+Intuitive+Interfaces;Turning+Ideas+into+Experiences" alt="Typing SVG" />
 </a>
 
 <br/>
