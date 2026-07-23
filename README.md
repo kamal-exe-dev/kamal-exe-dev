@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%"/>
+<video width="100%" autoplay muted loop playsinline>
+  <source src="https://cdn.discordapp.com/attachments/1528315449555685456/1529751978782101575/Firefly_--8-Second_Cinematic_Intro_Prompt--__-_Create_an_--8-second_ultra-premium_cinematic_motion_t_1.mp4" type="video/mp4">
+</video>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=B388FF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Experiences+%E2%9C%A6;Full+Stack+Development+%E2%9C%A6;UI%2FUX+Design+%2B+Systems+Thinking+%E2%9C%A6;Automation+%2F+Bots+%2F+Tooling+%E2%9C%A6;Founder+%40+Web+%26+Visuals" alt="Typing SVG" />
