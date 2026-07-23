@@ -1,17 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=KAMALESSH%20E%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Kamal.exe&descAlignY=55&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=KAMALESSH%20E%20R&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Kamal.exe%20%7C%20AI%20%26%20Full%20Stack%20Engineer&descAlignY=52&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Experiences+%E2%9C%A6;Full+Stack+Development+%E2%9C%A6;UI%2FUX+Design+%E2%9C%A6;Automation+%26+Discord+Bots+%E2%9C%A6;Founder+%40+Web+%26+Visuals" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=B388FF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Experiences+%E2%9C%A6;Full+Stack+Development+%E2%9C%A6;UI%2FUX+Design+%2B+Systems+Thinking+%E2%9C%A6;Automation+%2F+Bots+%2F+Tooling+%E2%9C%A6;Founder+%40+Web+%26+Visuals" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kamalessh-er&color=8A2BE2&style=flat-square&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/kamalessh-er?label=Followers&style=flat-square&color=8A2BE2)](https://github.com/kamalessh-er)
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LOCATION-India-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FOUNDER-Web%20%26%20Visuals-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kamalessh-er&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/kamalessh-er?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&labelColor=0D1117)](https://github.com/kamalessh-er)
+[![Stars](https://img.shields.io/github/stars/kamalessh-er?label=STARS&style=for-the-badge&color=8A2BE2&labelColor=0D1117)](https://github.com/kamalessh-er)
 
 </div>
+
+<div align="center">
+
+<a href="#-about-me">About</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-github-analytics">Analytics</a> •
+<a href="#-contribution-snake">Contributions</a> •
+<a href="#-professional-timeline">Timeline</a> •
+<a href="#-services-i-provide">Services</a> •
+<a href="#-connect-with-me">Connect</a>
+
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gif3.gif" width="100%">
@@ -22,107 +44,116 @@
 <!-- ============================ ABOUT ME ============================ -->
 ## 🧠 About Me
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket.gif">
+<img align="right" width="320" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket.gif">
 
-- 🚀 **AI & Full Stack Developer** crafting scalable, production-grade web applications
+```yaml
+Name:       Kamalessh E R
+Alias:      Kamal.exe
+Role:       AI & Full Stack Developer | UI/UX Designer | Founder
+Company:    Web & Visuals
+Focus:      Scalable Web Apps • AI Systems • Automation • Discord Bots
+Philosophy: "Ship clean, ship fast, ship with intention."
+```
+
+- 🚀 **AI & Full Stack Developer** crafting scalable, production-grade web applications end-to-end
 - 🎨 **UI/UX Designer** obsessed with clean, intuitive, human-centered interfaces
-- 🏢 **Founder** of **Web & Visuals** — building digital products & experiences for clients worldwide
-- 🤖 Passionate about **AI-powered solutions**, intelligent automation, and developer tooling
-- 🕹️ Building **Discord bots**, **FiveM scripts**, and community-driven tools
-- 📈 Currently focused on merging **AI + Full Stack Engineering** to ship real-world products
-- 🌱 Lifelong learner — always exploring the next stack, model, or design pattern
-- ⚡ Fun fact: I ship fast, but I ship clean.
+- 🏢 **Founder** of **Web & Visuals** — a digital product studio serving clients worldwide
+- 🤖 Deep focus on **AI-powered solutions**, LLM integrations, and intelligent automation
+- 🕹️ Building **Discord bots**, **FiveM systems**, and community-driven tools
+- 🧩 Strong believer in **systems thinking** — design, architecture, and code as one discipline
+- ⚡ Ships fast without breaking things — clean commits, clean architecture
 
 <br clear="right"/>
+
+<div align="center">
+
+### 🧬 Skill Proficiency
+
+| Skill | Proficiency |
+|---|---|
+| Full Stack Development | ![](https://progress-bar.xyz/92?title=&width=300&color=8A2BE2&suffix=%25) |
+| AI / Machine Learning | ![](https://progress-bar.xyz/85?title=&width=300&color=8A2BE2&suffix=%25) |
+| UI/UX Design | ![](https://progress-bar.xyz/88?title=&width=300&color=8A2BE2&suffix=%25) |
+| Automation & Bots | ![](https://progress-bar.xyz/90?title=&width=300&color=8A2BE2&suffix=%25) |
+| Cloud & DevOps | ![](https://progress-bar.xyz/75?title=&width=300&color=8A2BE2&suffix=%25) |
+
+</div>
+
+<br/>
+
+---
 
 <!-- ============================ FOCUS ============================ -->
 ## 🎯 Current Focus & Goals
 
-```yaml
-Focus:
-  - Scaling "Web & Visuals" as a full-service digital product studio
-  - Building production-ready AI/ML powered applications
-  - Mastering system design & cloud-native architecture
-  - Contributing to meaningful open-source projects
-  - Creating tools that automate real business workflows
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Goals 2026:
-  - Ship 3+ AI-powered SaaS products
-  - Grow open-source contributions & maintain 2+ active repos
-  - Mentor upcoming developers in Full Stack + AI
-```
+**🔭 Currently Working On**
+- Scaling **Web & Visuals** as a full-service product studio
+- Production-grade AI/ML powered applications
+- Advanced automation pipelines & internal tooling
+
+</td>
+<td width="50%" valign="top">
+
+**📌 2026 Goals**
+- Ship 3+ AI-powered SaaS products
+- Deepen expertise in system design & cloud architecture
+- Grow open-source footprint & mentor junior developers
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ---
 
 <!-- ============================ TECH STACK ============================ -->
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-### 🌐 Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,redux" />
 
-### ⚙️ Backend
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,php,graphql" />
 
-### 📱 Mobile
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+**Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,androidstudio" />
 
-### 🗄️ Databases
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis,supabase" />
 
-### 🤖 AI / ML
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py,opencv" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-### ☁️ Cloud
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+**Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,cloudflare" />
 
-### 🔧 DevOps
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+**DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,git" />
 
-### 🎨 Design
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+**Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,canva" />
 
-### 🧰 Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,linux,discordjs,notion,githubactions" />
 
 </div>
 
@@ -139,17 +170,21 @@ Goals 2026:
 <tr>
 <td width="50%">
 
-### 🌐 [Web & Visuals](https://github.com/kamalessh-er)
-Full-service digital studio delivering websites, branding & digital products for clients worldwide.
+### 🌐 Web & Visuals
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamalessh-er&repo=web-and-visuals&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2)](https://github.com/kamalessh-er)
 
+Full-service digital studio delivering websites, branding & digital products for clients worldwide.
+<br/>
 `React` `Node.js` `MongoDB` `UI/UX`
 
 </td>
 <td width="50%">
 
-### 🩺 [AI Medical Report Analyzer](https://github.com/kamalessh-er)
-AI-powered system that reads and interprets medical reports, extracting insights for patients & doctors.
+### 🩺 AI Medical Report Analyzer
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamalessh-er&repo=ai-medical-report-analyzer&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2)](https://github.com/kamalessh-er)
 
+AI system that reads and interprets medical reports, extracting clear insights for patients & doctors.
+<br/>
 `Python` `AI/ML` `FastAPI` `NLP`
 
 </td>
@@ -157,17 +192,21 @@ AI-powered system that reads and interprets medical reports, extracting insights
 <tr>
 <td width="50%">
 
-### 📜 [Certificate Generator](https://github.com/kamalessh-er)
-Automated bulk certificate generation tool with custom templates, dynamic fields & instant export.
+### 📜 Certificate Generator
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamalessh-er&repo=certificate-generator&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2)](https://github.com/kamalessh-er)
 
+Automated bulk certificate generation with custom templates, dynamic fields & instant export.
+<br/>
 `Python` `Automation` `PDF`
 
 </td>
 <td width="50%">
 
-### 🎓 [Student Management Dashboard](https://github.com/kamalessh-er)
-End-to-end dashboard for managing student records, attendance, performance & analytics.
+### 🎓 Student Management Dashboard
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamalessh-er&repo=student-management-dashboard&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2)](https://github.com/kamalessh-er)
 
+End-to-end dashboard for student records, attendance, performance analytics & reporting.
+<br/>
 `React` `Node.js` `MySQL` `Dashboard`
 
 </td>
@@ -175,22 +214,28 @@ End-to-end dashboard for managing student records, attendance, performance & ana
 <tr>
 <td width="50%">
 
-### 🤖 [Discord Bot Dashboard](https://github.com/kamalessh-er)
-Feature-rich Discord bot with a web dashboard for moderation, automation & server analytics.
+### 🤖 Discord Bot Dashboard
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamalessh-er&repo=discord-bot-dashboard&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2)](https://github.com/kamalessh-er)
 
+Feature-rich Discord bot with a web dashboard for moderation, automation & server analytics.
+<br/>
 `Discord.js` `Node.js` `Web Dashboard`
 
 </td>
 <td width="50%">
 
-### 🎮 [FiveM Projects](https://github.com/kamalessh-er)
-Custom FiveM scripts, resources & server-side systems for immersive roleplay experiences.
+### 🎮 FiveM Projects
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=kamalessh-er&repo=fivem-projects&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2)](https://github.com/kamalessh-er)
 
+Custom FiveM scripts, resources & server-side systems for immersive roleplay experiences.
+<br/>
 `Lua` `FiveM` `Game Dev`
 
 </td>
 </tr>
 </table>
+
+> 💡 Repo pin cards auto-populate once the repository names match your actual GitHub repos.
 
 </div>
 
@@ -198,19 +243,46 @@ Custom FiveM scripts, resources & server-side systems for immersive roleplay exp
 
 ---
 
-<!-- ============================ GITHUB STATS ============================ -->
-## 📊 GitHub Stats
+<!-- ============================ ANALYTICS ============================ -->
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kamalessh-er&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalessh-er&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kamalessh-er&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=B388FF&text_color=c9d1d9&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalessh-er&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=B388FF&currStreakLabel=B388FF" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalessh-er&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalessh-er&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9&langs_count=10" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kamalessh-er&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9&layout=compact" width="42%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalessh-er&theme=redical&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=ffffff" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalessh-er&theme=react-dark&hide_border=true&bg_color=0D1117&color=B388FF&line=8A2BE2&point=ffffff&area=true" width="92%"/>
 
 </div>
+
+<br/>
+
+---
+
+<!-- ============================ CONTRIBUTION SNAKE ============================ -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kamalessh-er/kamalessh-er/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<details>
+<summary><b>⚙️ Setup instructions (one-time)</b></summary>
+<br/>
+
+This animated snake eats your contribution graph. To generate it for your own profile:
+
+1. Create a repo named exactly like your username: `kamalessh-er/kamalessh-er`
+2. Add a GitHub Action using [`Platane/snk`](https://github.com/Platane/snk) to your workflow
+3. It will auto-generate `github-contribution-grid-snake-dark.svg` on an `output` branch
+4. The image URL above will then render automatically — no further changes needed
+
+</details>
 
 <br/>
 
@@ -220,7 +292,7 @@ Custom FiveM scripts, resources & server-side systems for immersive roleplay exp
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kamalessh-er&theme=radical&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kamalessh-er&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="100%"/>
 </div>
 
 <br/>
@@ -231,10 +303,12 @@ Custom FiveM scripts, resources & server-side systems for immersive roleplay exp
 ## 📚 Current Learning
 
 <div align="center">
-<img src="https://img.shields.io/badge/Learning-System_Design-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-LLM_%26_RAG_Pipelines-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-Cloud_Architecture-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-Advanced_TypeScript-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/-System%20Design-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LLM%20%26%20RAG%20Pipelines-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Cloud%20Native%20Architecture-8A2BE2?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Advanced%20TypeScript-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white"/>
+
 </div>
 
 <br/>
@@ -249,9 +323,13 @@ Custom FiveM scripts, resources & server-side systems for immersive roleplay exp
 <br/>
 
 - 🔹 Actively contributing to community-driven developer tools & automation scripts
-- 🔹 Maintaining personal open-source repositories for reusable UI components
+- 🔹 Maintaining personal open-source repositories for reusable UI components & bot frameworks
 - 🔹 Reviewing issues, submitting PRs, and improving documentation on public repos
-- 🔹 Open to collaborating on AI, automation & full-stack open-source projects
+- 🔹 Open to collaborating on AI, automation & full-stack open-source initiatives
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kamalessh-er&show_icons=true&hide=stars,commits&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=B388FF&text_color=c9d1d9&custom_title=Community+Impact" width="60%"/>
 
 </details>
 
@@ -260,14 +338,14 @@ Custom FiveM scripts, resources & server-side systems for immersive roleplay exp
 ---
 
 <!-- ============================ TIMELINE ============================ -->
-## 🕰️ Professional Timeline
+## 🕰 Professional Timeline
 
 ```text
-2022  ●  Started journey as a Full Stack Developer
-2023  ●  Founded "Web & Visuals" — digital product studio
-2024  ●  Expanded into AI/ML powered application development
-2025  ●  Delivered multiple client projects across web, AI & automation
-2026  ●  Building scalable SaaS products & mentoring developers
+2022  ●───  Started journey as a Full Stack Developer
+2023  ●───  Founded "Web & Visuals" — digital product studio
+2024  ●───  Expanded into AI/ML powered application development
+2025  ●───  Delivered multiple client projects across web, AI & automation
+2026  ●───  Building scalable SaaS products & mentoring developers
 ```
 
 <br/>
@@ -277,19 +355,23 @@ Custom FiveM scripts, resources & server-side systems for immersive roleplay exp
 <!-- ============================ SERVICES ============================ -->
 ## 💼 Services I Provide
 
-<details>
-<summary><b>Click to expand full service list</b></summary>
+<details open>
+<summary><b>Click to collapse / expand</b></summary>
 <br/>
+
+<div align="center">
 
 | Service | Description |
 |---|---|
 | 🌐 **Web Development** | Modern, scalable, responsive web applications |
-| 🤖 **AI Solutions** | Custom AI/ML models & intelligent automation tools |
+| 🤖 **AI Solutions** | Custom AI/ML models, LLM integrations & intelligent automation |
 | 🎨 **UI/UX Design** | User-centered interface & experience design |
-| ⚙️ **Automation Tools** | Workflow automation, bots & scripts |
-| 💬 **Discord Bots** | Custom bots with dashboards & integrations |
+| ⚙️ **Automation Tools** | Workflow automation, internal tools & scripts |
+| 💬 **Discord Bots** | Custom bots with dashboards & third-party integrations |
 | 🎮 **FiveM Development** | Custom scripts & server-side systems |
-| 📈 **Consulting** | Technical architecture & product strategy guidance |
+| 📈 **Technical Consulting** | Architecture reviews & product strategy guidance |
+
+</div>
 
 </details>
 
@@ -302,6 +384,8 @@ Custom FiveM scripts, resources & server-side systems for immersive roleplay exp
 
 ### 💬
 > *"Code is the closest thing we have to magic — write it with intention."*
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"/>
 
 </div>
 
@@ -325,7 +409,7 @@ Custom FiveM scripts, resources & server-side systems for immersive roleplay exp
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer"/>
 
 <div align="center">
 
